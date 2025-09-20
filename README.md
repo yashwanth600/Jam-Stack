@@ -20,8 +20,6 @@ Designed pages: Home (navbar, hero, features, footer), About/Services, and Conta
 Applied styling with Bootstrap utilities and custom CSS for consistency and responsiveness.
 Hosted on GitHub Pages and submitted links.
 
-Use of Tools and Resources
-I used AI tools (e.g., Grok) for initial code suggestions and referenced Bootstrap documentation for component details. No full pages were copied; snippets were modified.
 Challenges Faced and Solutions
 
 Challenge: Ensuring mobile responsiveness for the hero section.
