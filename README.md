@@ -9,11 +9,7 @@ HTML5
 CSS3
 Bootstrap 5 (latest via CDN)
 Git & GitHub
-
 Live Demo
-
-GitHub Repository: github.com/yourusername/bootstrap-ui-task (Replace with your actual repo URL)
-Live Preview: yourusername.github.io/bootstrap-ui-task or bootstrap-ui-task.netlify.app
 
 Project Reflection
 Step-by-Step Achievement
